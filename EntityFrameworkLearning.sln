@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkData", "EntityFrameworkData\EntityFrameworkData.csproj", "{C86D46B6-15FD-4CAA-8890-5D68863F27E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudOperationsEF", "CrudOperationsEF\CrudOperationsEF.csproj", "{C6F6C3A9-8526-4D23-B9F0-3D7DBD70CFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C86D46B6-15FD-4CAA-8890-5D68863F27E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86D46B6-15FD-4CAA-8890-5D68863F27E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86D46B6-15FD-4CAA-8890-5D68863F27E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86D46B6-15FD-4CAA-8890-5D68863F27E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F6C3A9-8526-4D23-B9F0-3D7DBD70CFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F6C3A9-8526-4D23-B9F0-3D7DBD70CFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F6C3A9-8526-4D23-B9F0-3D7DBD70CFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F6C3A9-8526-4D23-B9F0-3D7DBD70CFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C07CAEC3-3CC6-47C6-9863-4519CA4FC4C0}
+	EndGlobalSection
+EndGlobal
